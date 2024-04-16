@@ -8,7 +8,11 @@
 
 **Link to work:** https://github.com/fabbaisteth/fNFT
 
+### Day 1: April 16, 2024
+##### Working on the Hackathon Project and setting up Avail Node
 
+**Today's Progress**: I set up a Taiko node and the service to run it in the background of the VPS. On the other front, played with the Alchemy pre-built NFT marketplace. Will adapt the code for the needs of my hacktathon project tomorrow.
+**Thoughts:** it didn't feel like I did much today, felt very distracted and it also shows in lines of code or better the lag thereof. Need to reserve actual focus time to push and make these days productive. 
 
 
 ### Day 0: February 30, 2016 (Example 2)
